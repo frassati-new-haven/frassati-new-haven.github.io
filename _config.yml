@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title:
-description:
+title: Frassati New Haven
+description: <Description>
 logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+teaser: PierGiorgioFrassati-Adolescent.jpg # 400x250 px default teaser image used in image archive grid
 locale: en
-url:
+# url: www.newhavenfrassati.org
 
 # Jekyll configuration
 
@@ -37,8 +37,8 @@ titlecase: true
 
 # Site owner
 owner:
-  name:
-  email:
+  name: 
+  email: info@frassatinewhaven.org
   twitter:
   google:
     ad-client:
@@ -47,5 +47,8 @@ owner:
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 
+## Social Media
+social:
+  facebook_username: frassatinewhaven
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]

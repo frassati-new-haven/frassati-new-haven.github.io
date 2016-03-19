@@ -1,6 +1,11 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
+- title: Who We Are
+  url: /about/
+  excerpt: "About us"
+  image:
+
+- title: What We Do
+  url: /events/
+  excerpt: "What We Do"
   image:
