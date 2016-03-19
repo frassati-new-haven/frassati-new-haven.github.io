@@ -1,12 +1,17 @@
 # Site wide configuration
 
 title: Frassati New Haven
-description: <Description>
+description: Description
 logo: # 120x120 px default image used for Twitter summary card
-teaser: PierGiorgioFrassati-Adolescent.jpg # 400x250 px default teaser image used in image archive grid
+teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
 # url: www.newhavenfrassati.org
 
+# Homepage
+homepage:
+  title: Frassati New Haven
+  description: <Description>
+  
 # Jekyll configuration
 
 sass:
@@ -34,10 +39,9 @@ page_layout: article
 # Format titles with titlecase?
 titlecase: true
 
-
 # Site owner
 owner:
-  name: 
+  name: Stefan Avey
   email: info@frassatinewhaven.org
   twitter:
   google:
