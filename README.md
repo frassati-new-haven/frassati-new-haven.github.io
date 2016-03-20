@@ -8,4 +8,4 @@ The theme is built off of [Skinny Bones](http://mmistakes.github.io/skinny-bones
 
 ## Images
 
-* Homepage image is taken from [](http://www.isthmuscatholic.org/files/5613/4869/7411/Adoration_Chapel.jpg)
+* Homepage image is taken from [http://www.isthmuscatholic.org/files/5613/4869/7411/Adoration_Chapel.jpg](http://www.isthmuscatholic.org/files/5613/4869/7411/Adoration_Chapel.jpg)
