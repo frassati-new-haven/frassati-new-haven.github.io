@@ -1,11 +1,26 @@
 # Site navigation links
 
-- title: Who We Are
+- title: About Us
   url: /about/
-  excerpt: "About us"
+  excerpt: "Who We Are"
   image:
 
-- title: What We Do
+- title: Events
   url: /events/
   excerpt: "What We Do"
+  image:
+
+- title: Resources
+  url: /resources/
+  excerpt: "Spiritual Resources"
+  image:
+
+- title: Prayer Requests
+  url: /prayer/
+  excerpt:
+  image:
+
+- title: Sign Up
+  url: /signup/
+  excerpt: "For Our Mailing List"
   image:
