@@ -10,7 +10,7 @@ image:
   teaser:
   thumb:
 ads: false
-permalink: /events/
+#permalink: /events/
 ---
 
 # Events

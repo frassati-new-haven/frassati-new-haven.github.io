@@ -3,24 +3,24 @@
 - title: About Us
   url: /about/
   excerpt: "Who We Are"
-  image:
+  image: 400X250.gif
 
 - title: Events
   url: /events/
   excerpt: "What We Do"
-  image:
+  image: 400X250.gif
 
 - title: Resources
   url: /resources/
-  excerpt: "Spiritual Resources"
-  image:
+  excerpt: "Spiritual Resources and Things to do around New Haven"
+  image: 400X250.gif
 
 - title: Prayer Requests
   url: /prayer/
-  excerpt:
-  image:
+  excerpt: "Let us pray for you"
+  image: 400X250.gif
 
 - title: Sign Up
   url: /signup/
-  excerpt: "For Our Mailing List"
-  image:
+  excerpt: "Join Our Mailing List"
+  image: 400X250.gif
