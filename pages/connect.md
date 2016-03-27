@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Sign Up"
+title: "Connect"
 date: 
 modified:
 excerpt:
@@ -10,7 +10,7 @@ image:
   teaser:
   thumb:
 ads: false
-permalink: /signup/
+permalink: /connect/
 ---
 
 # Sign up for our mailing list
