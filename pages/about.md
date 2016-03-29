@@ -6,7 +6,7 @@ modified:
 excerpt:
 share: false
 image:
-  feature: PierGiorgioFrassati-Adolescent.jpg
+  feature: BPGF_WP.jpg
   teaser:
   thumb:
 ads: false
