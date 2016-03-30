@@ -13,10 +13,6 @@ ads: false
 permalink: /about/
 ---
 
-# Frassati New Haven
-This is who we are...
+Frassati New Haven is a newly formed chapter of Frassati USA, a young adult ministry that focuses on prayer, service, and fellowship after the charism of Blessed Pier Giorgio Frassati.
 
-
-## Who is Frassati?
-
-## Link to Frassati USA
+To learn more please visit [http://frassatiusa.org](http://frassatiusa.org).

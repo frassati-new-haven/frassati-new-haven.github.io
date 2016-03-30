@@ -13,10 +13,12 @@ ads: false
 permalink: /resources/
 ---
 
-# Spiritual Resources
+Coming soon...
 
-Some great resources for your spiritual life
+<!-- # Spiritual Resources -->
 
-# Things to do in New Haven
+<!-- Some great resources for your spiritual life -->
+
+<!-- # Things to do in New Haven -->
 
 
