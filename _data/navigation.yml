@@ -3,12 +3,11 @@
 - title: About Us
   url: /about/
   excerpt: "Who We Are"
-  image: /images/400x250.gif
+  image: 400x250.gif
 
 - title: Events
   url: /events/
   excerpt: "What We Do"
-  image: /images/400x250.gif
 
 - title: Resources
   url: /resources/
