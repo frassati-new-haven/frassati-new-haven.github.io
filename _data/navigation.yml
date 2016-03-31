@@ -8,18 +8,19 @@
 - title: Events
   url: /events/
   excerpt: "What We Do"
-
+  image: 400x250.gif
+  
 - title: Resources
   url: /resources/
   excerpt: "Spiritual Resources and Things to do around New Haven"
-  image: /images/400x250.gif
+  image: 400x250.gif
 
 - title: Prayer Requests
   url: /prayer/
   excerpt: "Let us pray for you"
-  image: /images/400x250.gif
+  image: 400x250.gif
 
 - title: Connect
   url: /connect/
   excerpt: "Sign up for our mailing list"
-  image: /images/400x250.gif
+  image: 400x250.gif
