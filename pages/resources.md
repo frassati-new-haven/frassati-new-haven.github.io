@@ -6,7 +6,7 @@ modified:
 excerpt:
 share: false
 image:
-  feature: 
+  feature: rosary_and_hymnal_zoom.jpeg
   teaser:
   thumb:
 ads: false

@@ -3,24 +3,24 @@
 - title: About Us
   url: /about/
   excerpt: "Who We Are"
-  image: 400x250.gif
+  image: frassati_headshot.jpg
 
 - title: Events
   url: /events/
   excerpt: "What We Do"
-  image: 400x250.gif
+  image: adoration_true.jpeg
   
 - title: Resources
   url: /resources/
-  excerpt: "Spiritual Resources and Things to do around New Haven"
-  image: 400x250.gif
+  excerpt: "Coming Soon"
+  image: rosary_and_hymnal.jpg
 
 - title: Prayer Requests
   url: /prayer/
   excerpt: "Let us pray for you"
-  image: 400x250.gif
+  image: praying_hands_on_bible.jpg
 
 - title: Connect
   url: /connect/
   excerpt: "Sign up for our mailing list"
-  image: 400x250.gif
+  image: mailing_list.jpg
