@@ -66,7 +66,18 @@ layout: default
 <style type="text/css">
   .wrap {
   overflow: hidden;
-  margin: 0 auto
+  margin: 0 auto;  
+  }
+  .float_center {
+    float: right;
+  
+    position: relative;
+    left: -50%;
+    text-align: left;
+  }
+  .float_center > .child {
+    position: relative;
+    left: 50%;
   }
   .box {
   float: left;
@@ -169,6 +180,7 @@ layout: default
       </div>
     </div>
 
+    
   </div>
   <!-- /#wrap -->
 

@@ -26,6 +26,7 @@ highlighter: rouge
 gems:
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-feed
 
 
 # Octopress configuration
@@ -57,4 +58,26 @@ owner:
 social:
   facebook_username: frassatinewhaven
 
-exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
+include:
+  - .htaccess
+exclude:
+  - "*.less"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README.md
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp
