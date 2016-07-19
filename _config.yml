@@ -8,6 +8,7 @@ teaser: 400x250.gif # default teaser image used in image archive grid
 locale: en
 # url: http://frassati-new-haven.github.io
 # url: frassatinewhaven.org
+baseurl: ""
 
 # Homepage
 homepage:
