@@ -58,6 +58,9 @@ owner:
 social:
   facebook_username: frassatinewhaven
 
+## Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-80997273-1
+
 include:
   - .htaccess
 exclude:
