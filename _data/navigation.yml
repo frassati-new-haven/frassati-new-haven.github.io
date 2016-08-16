@@ -10,15 +10,20 @@
   excerpt: "What We Do"
   image: adoration_true.jpeg
   
-- title: Resources
-  url: /resources/
-  excerpt: "Coming Soon"
-  image: rosary_and_hymnal.jpg
+# - title: Resources
+#   url: /resources/
+#   excerpt: "Coming Soon"
+#   image: rosary_and_hymnal.jpg
 
 - title: Prayer Requests
   url: /prayer/
   excerpt: "Let us pray for you"
   image: praying_hands_on_bible.jpg
+
+- title: Donate
+  url: /donate/
+  excerpt: "Donate to Frassati New Haven"
+  image: 
 
 - title: Connect
   url: /connect/
