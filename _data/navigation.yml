@@ -2,12 +2,12 @@
 
 - title: About Us
   url: /about/
-  excerpt: "Who We Are"
+  excerpt: "Who we are"
   image: frassati_headshot.jpg
 
 - title: Events
   url: /events/
-  excerpt: "What We Do"
+  excerpt: "What we do"
   image: adoration_true.jpeg
   
 # - title: Resources
@@ -17,7 +17,7 @@
 
 - title: Prayer Requests
   url: /prayer/
-  excerpt: "Let us pray for you"
+  excerpt: "Submit an online prayer request"
   image: praying_hands_on_bible.jpg
 
 - title: Donate
@@ -27,5 +27,5 @@
 
 - title: Connect
   url: /connect/
-  excerpt: "Sign up for our mailing list"
+  excerpt: "Stay in touch"
   image: 256px-Email_Shiny_Icon.png
