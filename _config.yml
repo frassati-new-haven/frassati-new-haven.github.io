@@ -27,7 +27,9 @@ highlighter: rouge
 gems:
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  - jekyll-feed 
+  - jekyll-redirect-from
+
 
 
 # Octopress configuration
